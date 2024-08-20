@@ -1,0 +1,1 @@
+# tflint-security-smells-plugins
